@@ -1,0 +1,9 @@
+* cl-win32-types
+
+Common Lisp definitions for Win32 types.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/ItsMeForLua/cl-win32-types.git     |
+| commit  | 0000000                                                    |
+| systems | cl-win32-types cl-win32-types/benchmarks                  |
+|---------+------------------------------------------------------------|
