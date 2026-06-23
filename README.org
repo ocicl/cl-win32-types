@@ -7,3 +7,4 @@ Common Lisp definitions for Win32 types.
 | commit  | 69f6c0b                                                    |
 | systems | cl-win32-types cl-win32-types/benchmarks                  |
 |---------+------------------------------------------------------------|
+ 
